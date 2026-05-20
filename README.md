@@ -25,7 +25,8 @@ Unlike purely data-driven thermal predictors, the framework incorporates physica
 
 ## Data Source:
 
-Validation: [Published Dataset](https://www.sciencedirect.com/science/article/pii/S2352340921001785 "Paper Link")
+Validation: [Published Dataset](https://www.sciencedirect.com/science/article/pii/S2352340921001785 "Paper Link").
+
 C-Data: Via Ansys, CHT Lab, JU
 
 # 1. Physical System

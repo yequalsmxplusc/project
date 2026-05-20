@@ -1,2 +1,4 @@
 myenv/*
 .vscode/*
+VALIDATION_DATASET_EXPLAINED.md
+cht.py
